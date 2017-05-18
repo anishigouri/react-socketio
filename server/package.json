@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "express": "^4.15.3"
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "consign": "^0.1.4",
+    "express": "^4.15.3",
+    "mongoose": "^4.4.20"
   }
 }
