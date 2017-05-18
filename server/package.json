@@ -4,6 +4,7 @@
     "body-parser": "^1.17.1",
     "consign": "^0.1.4",
     "express": "^4.15.3",
-    "mongoose": "^4.4.20"
+    "mongoose": "^4.4.20",
+    "socketio": "^1.0.0"
   }
 }
